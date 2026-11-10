@@ -7,7 +7,7 @@
 
 ![GitHub License](https://img.shields.io/github/license/Norien-hue/PennylessTrack) 
 ![Deps.rs Crate Dependencies (latest)](https://img.shields.io/deps-rs/rust-api/latest)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Norien-Hue/PennylessTrack/CurrentlyNone) (Not yet created)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Norien-Hue/PennylessTrack/CurrentlyNone) 
 
 
 ## Description
@@ -24,6 +24,7 @@ Not yet posible
 ## Roadmap
 - [ ] Add .gitignore
 - [ ] Protect main branch
+- [ ] Add build workflow
 - [x] Add License
 - [ ] Implement Dependabot
 - [ ] Create API
