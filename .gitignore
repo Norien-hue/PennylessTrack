@@ -1,0 +1,5 @@
+**/target
+*program.log
+*.db
+**/secrets
+*secrets.txt
