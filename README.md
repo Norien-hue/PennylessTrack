@@ -29,3 +29,4 @@ Not yet posible
 - [x] Add License
 - [ ] Implement Dependabot
 - [ ] Create API
+- [ ] Add signing with GPG keys
