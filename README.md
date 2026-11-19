@@ -3,12 +3,13 @@
 <img src="./meta/modcoin.png" height="256px">
 </div>
 
-<h1 align="center">A Secure Production Start Up (PPS) project</div>
+<h1 align="center">A Secure Production Start Up (PPS) project</h1>
 
-![GitHub License](https://img.shields.io/github/license/Norien-hue/PennylessTrack) 
-![Deps.rs Crate Dependencies (latest)](https://img.shields.io/deps-rs/rust-api/latest)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Norien-Hue/PennylessTrack/CurrentlyNone) 
-
+<div align="center">
+    <img src="https://img.shields.io/github/license/Norien-hue/PennylessTrack" alt="License">
+    <img src="https://img.shields.io/deps-rs/rust-api/latest" alt="Rust API status">
+    <img src="https://img.shields.io/github/actions/workflow/status/Norien-Hue/PennylessTrack/CurrentlyNone" alt="Build Workflow (Currently None)">
+</div>
 
 ## Description
 The only current purpose of this project is to make a REST api 
