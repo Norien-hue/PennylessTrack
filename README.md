@@ -23,7 +23,7 @@ retrieve ```{"status":"ok"}```.
 Not yet posible
 
 ## Roadmap
-- [ ] Add .gitignore
+- [x] Add .gitignore
 - [ ] Protect main branch
 - [ ] Add build workflow
 - [x] Add License
