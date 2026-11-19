@@ -24,7 +24,7 @@ Not yet posible
 
 ## Roadmap
 - [x] Add .gitignore
-- [ ] Protect main branch
+- [x] Protect main branch
 - [ ] Add build workflow
 - [x] Add License
 - [ ] Implement Dependabot
