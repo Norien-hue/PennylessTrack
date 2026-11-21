@@ -1,2 +1,3 @@
 # Simulación de credencial expuesta para prueba de seguridad
 GITHUB_API_TOKEN = "ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
