@@ -1,2 +1,2 @@
 # Simulación de credencial expuesta para prueba de seguridad
-GITHUB_API_TOKEN = "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"
+GITHUB_API_TOKEN = "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"
