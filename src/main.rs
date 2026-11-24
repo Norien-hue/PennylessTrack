@@ -1,4 +1,4 @@
 fn main() {
-    let fake_ghp: &str = "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";
+    let fake_ghp: &str = "example";
     println!("Hello, world!, {}", fake_ghp);
 }
