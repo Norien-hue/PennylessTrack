@@ -1,0 +1,17 @@
+rules:
+  - id: unsafe-indexing-panic
+    patterns:
+      - pattern: $VARIABLE[$INDEX]
+
+      # Tambien debería revisarse que al hacer asignaciones se haga 
+      # una comprobación de los limites pero es bastante más complejo.
+
+      # Evita avisar en asignaciones.
+      - pattern-not: $VARIABLE[$INDEX] = ...
+    message: |
+      Acceso directo con [] puede causar panic si el índice está fuera de rango.
+      
+      Considera usar .get() manejando correctamente (ok_or_else o if let)
+      o asegúrate de que el índice está acotado.
+    severity: WARNING
+    languages: [rust]

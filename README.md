@@ -27,6 +27,7 @@ Not yet posible
 - [x] Protect main branch
 - [ ] Add build workflow
 - [x] Add License
-- [ ] Implement Dependabot
+- [x] Implement Dependabot
 - [ ] Create API
 - [x] Add signing with GPG keys
+- [ ] Add Semgrep workflow
