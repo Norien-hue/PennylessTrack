@@ -25,6 +25,6 @@ jobs:
     if: (github.actor != 'dependabot[bot]')
     steps:
       - uses: actions/checkout@v4
-      - run: semgrep ci --config .semgrep/rules/unsafe_vec_access.yaml --config "p/rust" ./src
+      - run: semgrep ci --config .semgrep/rules/unsafe_vec_access.yaml --config "p/rust" 
         env:
           SEMGREP_APP_TOKEN: ${{ secrets.SEMGREP_APP_TOKEN }}
