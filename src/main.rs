@@ -6,3 +6,7 @@ fn main() {
 fn very_unsafe_fn() {
     let pid = unsafe {libc::getpid() };
 }
+
+fn very_unsafe_access(basic_vec: &Vec<u32>, index: usize) -> u32 {
+    return basic_vec[index];
+}
